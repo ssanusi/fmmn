@@ -1,5 +1,5 @@
-# introduction to Command Line 
-
+# Introduction to Command Line 
+this section of the program teachs command line for developers 
 
 
 # unix

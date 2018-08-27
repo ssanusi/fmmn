@@ -1,6 +1,8 @@
 # Introduction to Command Line 
 this section of the program teachs command line for developers 
 
+the command on listing file :
+    ls
 
 # unix
 
@@ -164,7 +166,7 @@ Open up a bash shell for the next sections to
 follow along.
 
 If you're not sure which shell you're in, type:
-
+    
     echo $SHELL
 
 If you're in bash, you sould see something like:

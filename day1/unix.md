@@ -1,8 +1,9 @@
 # Introduction to Command Line 
 this section of the program teachs command line for developers 
 
+[link to lambda school](lambdaschool.com)
 the command on listing file :
-    ls
+    __ls__
 
 # unix
 
